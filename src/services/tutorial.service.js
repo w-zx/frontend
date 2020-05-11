@@ -1,4 +1,4 @@
-import http from "../util/http-common.js";
+import http from "../util/http-common";
 
 const getAll = () => {
     return http.get("/tutorials");
