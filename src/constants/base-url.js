@@ -1,1 +1,1 @@
-export const BASE_URL = window.location.hostname + ':' + window.location.port;
+export const BASE_URL = window.location.hostname + ':8080';
